@@ -1,10 +1,13 @@
 https://chat-history?chatId=2fac3d2f-a4c6-4ba2-8a4a-b9c5ee7947d3<DOCTYPE html>
 <html>
 
-<header>types of web browsers
-
-
-# Log/OS Files
+<header>types of web browsers 
+<internet explorer>
+<Google Chrome>
+<morzilla fox fire>
+<safari>
+<opera>
+<lynx>
 *.log
 
 # Android Studio generated files and folders
@@ -13,20 +16,3 @@ captures/
 .cxx/
 *.apk
 output.json
-
-# IntelliJ
-*.iml
-.idea/
-misc.xml
-deploymentTargetDropDown.xml
-render.experimental.xml
-
-# Keystore files
-*.jks
-*.keystore
-
-# Google Services (e.g. APIs or Firebase)
-google-services.json
-
-# Android Profiling
-*.hprof
